@@ -49,6 +49,8 @@ end
 
  gem 'simple_form'
 
+ gem 'auto_html'
+
  gem 'devise'
 
 
